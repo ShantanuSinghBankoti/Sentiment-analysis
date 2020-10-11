@@ -6,8 +6,10 @@
 
 ### The metric used for evaluating the performance of classification model would be weighted F1-Score.
 
-## train.csv - ### For training the models, we provide a labelled dataset of 7920 tweets. The dataset is provided in the form of a csv file with each line storing a tweet id, its label and the tweet.
+## train.csv - 
+### For training the models, we provide a labelled dataset of 7920 tweets. The dataset is provided in the form of a csv file with each line storing a tweet id, its label and the tweet.
 
-## test.csv - ### The test data file contains only tweet ids and the tweet text with each tweet in a new line.
+## test.csv - 
+### The test data file contains only tweet ids and the tweet text with each tweet in a new line.
 
 ### Most profane and vulgar terms in the tweets have been replaced with “$&@*#”. However, please note that the dataset still might contain text that may be considered profane, vulgar, or offensive.
